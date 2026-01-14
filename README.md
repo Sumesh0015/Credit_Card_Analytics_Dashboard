@@ -7,9 +7,9 @@ Customer & Transaction Insights using SQL, Excel & Power BI
 This project analyzes credit card customer behavior and transaction patterns to derive actionable business insights.
 Using SQL for data preparation, Excel for structured datasets, and Power BI for visualization, the project delivers two interactive dashboards:
 
-Credit Card Transaction Report, <img width="1372" height="771" alt="Credit Card Transaction Report Dashboard" src="https://github.com/user-attachments/assets/60121a06-fd96-48a6-9057-bf5f0a969884" />
+## Credit Card Transaction Report, <img width="1372" height="771" alt="Credit Card Transaction Report Dashboard" src="https://github.com/user-attachments/assets/60121a06-fd96-48a6-9057-bf5f0a969884" />
 
-Credit Card Customer Report, <img width="1372" height="771" alt="Credit Card Customer Report Dashboard" src="https://github.com/user-attachments/assets/6650b7e1-0131-479d-9837-46e40bbb14e7" />
+## Credit Card Customer Report, <img width="1372" height="771" alt="Credit Card Customer Report Dashboard" src="https://github.com/user-attachments/assets/6650b7e1-0131-479d-9837-46e40bbb14e7" />
 
 
 The dashboards help stakeholders understand revenue trends, customer segments, spending behavior, and performance drivers.
